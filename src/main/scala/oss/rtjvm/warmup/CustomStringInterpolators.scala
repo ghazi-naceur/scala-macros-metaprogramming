@@ -1,5 +1,6 @@
 package oss.rtjvm.warmup
 
+// 1
 object CustomStringInterpolators {
 
   // s-interpolation
